@@ -26,17 +26,17 @@
     - Значение переменной: C:\Users\USER_NAME\AppData\Local\Android\Sdk
 
 <div align="center">
-    <img alt='System Variables' height='400' title='System Variables' src='src/test/resources/img/systemVariables.jpg'>
+    <img alt='System Variables' height='400' title='System Variables' src='images/systemVariables.jpg'>
 </div>
 
 ## Результат выполненого теста на BrowserStack
 
 <div align="center">
-    <img alt='System Variables' height='560' title='System Variables' src='src/test/resources/img/browserStack-successfulTest.png'>
+    <img alt='System Variables' height='560' title='System Variables' src='images/browserStack-successfulTest.png'>
 </div>
 
 ## Результат выполненого теста на Android Studio
 
 <div align="center">
-    <img alt='System Variables' height='553' title='System Variables' src='src/test/resources/img/androidStudio-successfulTest.png'>
+    <img alt='System Variables' height='553' title='System Variables' src='images/androidStudio-successfulTest.png'>
 </div>
