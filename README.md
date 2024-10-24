@@ -32,11 +32,11 @@
 ## Результат выполненого теста на BrowserStack
 
 <div align="center">
-    <img alt='System Variables' height='480' title='System Variables' src='images/browserStack-successfulTest.png'>
+    <img alt='BrowserStack' height='480' title='BrowserStack' src='images/browserStack-successfulTest.png'>
 </div>
 
 ## Результат выполненого теста на Android Studio
 
 <div align="center">
-    <img alt='System Variables' height='475' title='System Variables' src='images/androidStudio-successfulTest.png'>
+    <img alt='Android Studio' height='475' title='Android Studio' src='images/androidStudio-successfulTest.png'>
 </div>
